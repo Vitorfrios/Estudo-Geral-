@@ -1,7 +1,4 @@
-
 # **Plano Ajustado para 1 Ano Focado em IA e Preparação para a Faculdade**
-
----
 
 ## **1º Trimestre: Fundamentos em IA, Python, C e Matemática**
 
