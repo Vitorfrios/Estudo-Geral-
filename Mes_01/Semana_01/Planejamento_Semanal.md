@@ -4,7 +4,8 @@
 
 ## **Segunda-feira**
 
-### **Python (2h)**
+### **01 Python (2h)**
+
 - **Sintaxe Básica**
   - Definição de variáveis.
   - Operadores aritméticos (+, -, *, /, //, %, **).
@@ -15,7 +16,8 @@
   - Crie um programa simples que calcule a soma de 2 números.
   - Exercício: Verifique se um número é múltiplo de outro.
 
-### **Matemática (2h)**
+### **01 Matemática (2h)**
+
 - **Álgebra**
   - Operações básicas (soma, subtração, multiplicação, divisão).
   - Potências e raízes quadradas.
@@ -28,7 +30,8 @@
 
 ## **Terça-feira**
 
-### **Python (2h)**
+### **02 Python (2h)**
+
 - **Estruturas de Dados**
   - Listas: definição, acesso, adição, remoção.
   - Tuplas: definição e diferença para listas.
@@ -39,7 +42,8 @@
   - Crie uma lista de números e calcule a média.
   - Exercício: Escreva um programa que compare duas listas de números.
 
-### **Matemática (2h)**
+### **02 Matemática (2h)**
+
 - **Funções**
   - Definição de funções.
   - Composição de funções.
@@ -53,7 +57,8 @@
 
 ## **Quarta-feira**
 
-### **Python (2h)**
+### **03 Python (2h)**
+
 - **Funções**
   - Definição de funções em Python.
   - Parâmetros e retorno de valores.
@@ -63,7 +68,8 @@
   - Crie uma função que calcule o fatorial de um número.
   - Exercício: Faça uma função que verifique se um número é primo.
 
-### **Matemática (2h)**
+### **03 Matemática (2h)**
+
 - **Funções e Gráficos**
   - Análise de gráficos de funções simples (linear, quadrática).
   
@@ -75,12 +81,14 @@
 
 ## **Quinta-feira**
 
-### **Python (2h)**
+### **04 Python (2h)**
+
 - **Exercícios e Revisão**
   - Refaça os exercícios anteriores.
   - Resolva problemas no *HackerRank* ou *Exercism.io* relacionados a listas, tuplas, dicionários, e funções.
   
-### **Matemática (2h)**
+### **04 Matemática (2h)**
+
 - **Álgebra**
   - Estudo de propriedades de potências e radicais.
   
@@ -91,11 +99,13 @@
 
 ## **Sexta-feira**
 
-### **Python (2h)**
+### **05 Python (2h)**
+
 - **Exercícios Práticos**
   - Resolva problemas de controle de fluxo (condicionais e loops) no *HackerRank* ou *Exercism.io*.
   
-### **Matemática (2h)**
+### **05 Matemática (2h)**
+
 - **Funções e Álgebra**
   - Revisão dos conceitos de funções e operações básicas.
   
@@ -106,11 +116,13 @@
 
 ## **Sábado**
 
-### **Python (2h)**
+### **06 Python (2h)**
+
 - **Exercícios e Projeto**
   - Desenvolva pequenos programas com o que aprendeu até agora (exemplo: calculadora de médias, verificação de números primos).
   
-### **Matemática (2h)**
+### **06 Matemática (2h)**
+
 - **Álgebra e Funções**
   - Revisão dos conceitos da semana e resolução de mais exercícios.
   
@@ -121,12 +133,14 @@
 
 ## **Domingo**
 
-### **Python (2h)**
+### **07 Python (2h)**
+
 - **Revisão e Aperfeiçoamento**
   - Revise os conceitos de sintaxe, estruturas de dados e funções.
   - Refaça os exercícios mais difíceis.
   
-### **Matemática (2h)**
+### **07 Matemática (2h)**
+
 - **Revisão da Semana**
   - Revise os tópicos de álgebra, funções e gráficos.
   - Resolva exercícios de revisão no Khan Academy.

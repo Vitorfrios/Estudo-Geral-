@@ -1,3 +1,3 @@
 # Planejamento Semanal
 
-Este é o planejamento para a semana 02.
+## *Este é o planejamento para a semana 02.*

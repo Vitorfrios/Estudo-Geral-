@@ -25,7 +25,7 @@ for mes in range(1, 13):
                 caminho_arquivo_semanal = os.path.join(caminho_pasta_semana, "Planejamento_Semanal.md")
                 if not os.path.exists(caminho_arquivo_semanal):
                     with open(caminho_arquivo_semanal, "w") as arquivo_semanal:
-                        arquivo_semanal.write(f"# Planejamento Semanal\n\nEste é o planejamento para a semana {str(semana_num).zfill(2)}.")
+                        arquivo_semanal.write(f"# Planejamento Semanal\n\n## *Este é o planejamento para a semana {str(semana_num).zfill(2)}.*\n")
                     print(f"     Criado o arquivo: Planejamento_semanal.md")
                 else:
                     print(f"     O arquivo Planejamento_semanal.md já existe em {nome_pasta_semana}")
@@ -33,3 +33,13 @@ for mes in range(1, 13):
                 print(f"  A pasta da semana {nome_pasta_semana} não foi encontrada. Pulando...")
     else:
         print(f"A pasta {nome_pasta_mes} não existe, pulando...")
+
+
+
+
+
+
+
+
+
+
